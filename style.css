@@ -71,3 +71,20 @@ span {
     border: 2px solid #4C5ADC;
     transition: all 200ms ease-in-out;
 }
+
+.submit {
+    height: 38px;
+    width: 100%;
+    margin-top: 5%;
+    background-color: #2364D2;
+    border: none;
+    border-radius: 8px;
+    color: white;
+    font-weight: 600;
+    transition: all 200ms ease-in-out;
+}
+
+.submit:hover {
+    cursor: pointer;
+    background-color: #2d77f7;
+}
